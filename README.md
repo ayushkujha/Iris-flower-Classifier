@@ -4,7 +4,6 @@ This repository contains a simple Machine Learning project that builds a classif
 
 ## Files include:
 - `iris_classifier.py`: The main Python script that loads the dataset, trains a Random Forest Classifier, evaluates its accuracy, and makes a sample prediction.
-- `iris_classifier_guide.md`: A comprehensive, step-by-step tutorial explaining how the code works and the machine learning concepts behind it.
 
 ## Prerequisites
 To run this code, you will need Python installed along with the following libraries:
